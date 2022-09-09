@@ -15,12 +15,12 @@ python test.py
 option.py
 
 # Citation
-@article{fu2021learning,\\
-  title={Learning Semantic-Aware Spatial-Temporal Attention for Interpretable Action Recognition},\\
-  author={Fu, Jie and Gao, Junyu and Xu, Changsheng},\\
-  journal={IEEE Transactions on Circuits and Systems for Video Technology},\\
-  year={2021},\\
-  publisher={IEEE}\\
+@article{fu2021learning, <br>
+  title={Learning Semantic-Aware Spatial-Temporal Attention for Interpretable Action Recognition}, <br>
+  author={Fu, Jie and Gao, Junyu and Xu, Changsheng}, <br>
+  journal={IEEE Transactions on Circuits and Systems for Video Technology}, <br>
+  year={2021}, <br>
+  publisher={IEEE} <br>
 }
 
 ## License
